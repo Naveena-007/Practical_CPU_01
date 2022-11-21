@@ -1,0 +1,77 @@
+.top{
+    display:flex;
+}
+body{
+    margin: 80px;
+    background-color:  hsl(207, 33%, 95%);
+
+}
+h1{
+    margin: 0px;
+}
+
+button{
+    margin-right: 10px;
+   
+    text-decoration:none;
+    align-content: space-between;  
+    background-color:hsl(207, 33%, 95%) ;
+    border: none
+    
+}
+.features{
+    margin-left: 690px;
+}
+.button1{
+    background-color: rgb(57, 0, 110);
+    height:40px;
+    width:120px;
+    font-size:16px;
+    color: white;
+    border-radius: 5px;
+}
+.head{
+    font-size:60px ;
+    color: rgb(57, 0, 110) ;
+}
+.email{
+    height: 40px;
+    width:260px;
+    padding-left: 10px;
+    font-size: 15px;
+    background-color: white;
+    border: none;
+
+    
+}
+.images{
+    height:300px;
+    width: 350px;
+   margin-left: 250px;
+
+}
+.center{
+    display: flex;
+    margin-top: 90px;
+}
+.learn{
+    border: none;
+    height:40px;
+    width: 460px;
+    border-radius:26px;
+    background-color:rgb(57, 0, 110)  ;
+    color: white;
+    font-size: 19px;
+    padding:8px;
+    align-items: center;
+    display: flex;
+}
+.a{
+    color: white;
+}
+.para{
+    font-size:19px;
+}
+.icon{
+    margin-top: 130px;
+}
